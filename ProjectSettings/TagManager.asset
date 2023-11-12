@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - SunWall
+  - MoonWall
+  - Sun
+  - Moon
+  - SunRope
+  - MoonRope
+  - Sun_L_Clip
+  - Sun_R_Clip
+  - Moon_L_Clip
+  - Moon_R_Clip
+  - Sun_M_Clip
+  - Moon_M_Clip
+  - Arrow
+  - Die
+  - Flower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - SunWall
+  - MoonWall
+  - Sun
+  - Moon
+  - SunRope
+  - MoonRope
+  - Arrow
+  - SunFilp
+  - MoonFlip
+  - Flower
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

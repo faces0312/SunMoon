@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 1a78ce5f418dea04abdd406f2699ed26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2970312654962737346
+    second: Rope_Ver_0
+  - first:
+      213: -2897070141851991699
+    second: Rope_Ver_1
+  - first:
+      213: 8648307206760776287
+    second: Rope_Ver_2
+  - first:
+      213: 8057566155513695945
+    second: Rope_Ver_3
+  - first:
+      213: 3293710443201673644
+    second: Rope_Ver_4
+  - first:
+      213: -2832916573033462736
+    second: Rope_Ver_5
+  - first:
+      213: -6514099636592138590
+    second: Rope_Ver_6
+  - first:
+      213: 3917165004545028790
+    second: Rope_Ver_7
+  - first:
+      213: 6512816709929395706
+    second: Rope_Ver_8
+  - first:
+      213: -4513468362119526095
+    second: Rope_Ver_9
+  - first:
+      213: -5195574925419876379
+    second: Rope_Ver_10
+  - first:
+      213: 4701867276977808550
+    second: Rope_Ver_11
+  - first:
+      213: 6866509601421692594
+    second: Rope_Ver_12
+  - first:
+      213: -5697052188716999562
+    second: Rope_Ver_13
+  - first:
+      213: -7058900537885568489
+    second: Rope_Ver_14
+  - first:
+      213: -6048566084561605612
+    second: Rope_Ver_15
+  - first:
+      213: -8850349216639671574
+    second: Rope_Ver_16
+  - first:
+      213: 7586929193770512162
+    second: Rope_Ver_17
+  - first:
+      213: 3807333109507851561
+    second: Rope_Ver_18
+  - first:
+      213: -6213075668514242811
+    second: Rope_Ver_19
+  - first:
+      213: 7404910756733180390
+    second: Rope_Ver_20
+  - first:
+      213: 7490568684757014557
+    second: Rope_Ver_21
+  - first:
+      213: -5778188728061190257
+    second: Rope_Ver_22
+  - first:
+      213: 2373667970327674299
+    second: Rope_Ver_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rope_Ver_0
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5559
+        width: 540
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c6ee4f9ba83920800000000000000
+      internalID: 2970312654962737346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5559
+        width: 555
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6185892e0a8bc7d0800000000000000
+      internalID: -2897070141851991699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_2
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 5558
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f524d677595f40870800000000000000
+      internalID: 8648307206760776287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_3
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 5558
+        width: 554
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8a954ab932df60800000000000000
+      internalID: 8057566155513695945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_4
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 5558
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b700823c95bd20800000000000000
+      internalID: 3293710443201673644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_5
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 5558
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0340602e2657fa8d0800000000000000
+      internalID: -2832916573033462736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4632
+        width: 540
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6ac69c4e44995a0800000000000000
+      internalID: -6514099636592138590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4631
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27f7e41d09c5630800000000000000
+      internalID: 3917165004545028790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_8
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 4631
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e1929a4c226a50800000000000000
+      internalID: 6512816709929395706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_9
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 4631
+        width: 554
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139c6e22070fc51c0800000000000000
+      internalID: -4513468362119526095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_10
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 4631
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efeb66f12c95e7b0800000000000000
+      internalID: -5195574925419876379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_11
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 4631
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ab497063604140800000000000000
+      internalID: 4701867276977808550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3834
+        width: 555
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8c872a1eba4f50800000000000000
+      internalID: 6866509601421692594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_13
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3834
+        width: 555
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c59a8f73100f0b0800000000000000
+      internalID: -5697052188716999562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_14
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 3834
+        width: 555
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71254864c5fb90e90800000000000000
+      internalID: -7058900537885568489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_15
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 3834
+        width: 554
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cea39513d2f0ca0800000000000000
+      internalID: -6048566084561605612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_16
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 3834
+        width: 555
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22904574e3d2580800000000000000
+      internalID: -8850349216639671574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_17
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 3834
+        width: 555
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f6bba87ef2a4960800000000000000
+      internalID: 7586929193770512162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_18
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3214
+        width: 555
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: 14}
+        - {x: -277.5, y: -15}
+        - {x: 277.5, y: -15}
+        - {x: 277.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9258ccd7a4d56d430800000000000000
+      internalID: 3807333109507851561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_19
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3214
+        width: 555
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: 14}
+        - {x: -277.5, y: -15}
+        - {x: 277.5, y: -15}
+        - {x: 277.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff5970998b6c9a0800000000000000
+      internalID: -6213075668514242811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_20
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 3269
+        width: 555
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: 14}
+        - {x: -277.5, y: -15}
+        - {x: 277.5, y: -15}
+        - {x: 277.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9dc80b91783c660800000000000000
+      internalID: 7404910756733180390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2669
+        width: 555
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: 14}
+        - {x: -277.5, y: -15}
+        - {x: 277.5, y: -15}
+        - {x: 277.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d185b943888d3f760800000000000000
+      internalID: 7490568684757014557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_22
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2669
+        width: 555
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: 14}
+        - {x: -277.5, y: -15}
+        - {x: 277.5, y: -15}
+        - {x: 277.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f1fba47ffbfcfa0800000000000000
+      internalID: -5778188728061190257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Ver_23
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2723
+        width: 555
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: 14}
+        - {x: -277.5, y: -15}
+        - {x: 277.5, y: -15}
+        - {x: 277.5, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd7a1a5176f0f020800000000000000
+      internalID: 2373667970327674299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

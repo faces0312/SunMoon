@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: b9e710c6ebe45c841a51b369bed4678f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6408773277176534577
+    second: Wall_Neon_0
+  - first:
+      213: 6997075779927779201
+    second: Wall_Neon_1
+  - first:
+      213: -5666958265271448751
+    second: Wall_Neon_2
+  - first:
+      213: 8274396366019710141
+    second: Wall_Neon_3
+  - first:
+      213: -8868365102099405600
+    second: Wall_Neon_4
+  - first:
+      213: 8482218510320391879
+    second: Wall_Neon_5
+  - first:
+      213: -1532624137113998424
+    second: Wall_Neon_6
+  - first:
+      213: -2365738585723195986
+    second: Wall_Neon_7
+  - first:
+      213: 476660472197771972
+    second: Wall_Neon_8
+  - first:
+      213: -3717066626926023117
+    second: Wall_Neon_9
+  - first:
+      213: -2166588487779270640
+    second: Wall_Neon_10
+  - first:
+      213: 3167857286530213209
+    second: Wall_Neon_11
+  - first:
+      213: -805164017738026455
+    second: Wall_Neon_12
+  - first:
+      213: -64619758185802371
+    second: Wall_Neon_13
+  - first:
+      213: 6872213162815783912
+    second: Wall_Neon_14
+  - first:
+      213: -7389542716372412739
+    second: Wall_Neon_15
+  - first:
+      213: 8171099676174459248
+    second: Wall_Neon_16
+  - first:
+      213: 7186435001143586715
+    second: Wall_Neon_17
+  - first:
+      213: 559557223668099934
+    second: Wall_Neon_18
+  - first:
+      213: -8251087311362380145
+    second: Wall_Neon_19
+  - first:
+      213: 5951982302965385745
+    second: Wall_Neon_20
+  - first:
+      213: 2506270738118606642
+    second: Wall_Neon_21
+  - first:
+      213: -16168329556964701
+    second: Wall_Neon_22
+  - first:
+      213: -3239938576563877926
+    second: Wall_Neon_23
+  - first:
+      213: 1464817538820875965
+    second: Wall_Neon_24
+  - first:
+      213: -7947023784091140503
+    second: Wall_Neon_25
+  - first:
+      213: 5493949726415215521
+    second: Wall_Neon_26
+  - first:
+      213: 8882943986578075737
+    second: Wall_Neon_27
+  - first:
+      213: 4325288669765319639
+    second: Wall_Neon_28
+  - first:
+      213: -1261907023584452843
+    second: Wall_Neon_29
+  - first:
+      213: -8259333740448864391
+    second: Wall_Neon_30
+  - first:
+      213: -6800955900817909976
+    second: Wall_Neon_31
+  - first:
+      213: -7495925440483658926
+    second: Wall_Neon_32
+  - first:
+      213: -6939395200430905709
+    second: Wall_Neon_33
+  - first:
+      213: 5626511008488098342
+    second: Wall_Neon_34
+  - first:
+      213: 8297277346140272460
+    second: Wall_Neon_35
+  - first:
+      213: -8650837337028741087
+    second: Wall_Neon_36
+  - first:
+      213: 7767975150917027218
+    second: Wall_Neon_37
+  - first:
+      213: -3588246591193463932
+    second: Wall_Neon_38
+  - first:
+      213: -381105059636085633
+    second: Wall_Neon_39
+  - first:
+      213: -2145142137592516023
+    second: Wall_Neon_40
+  - first:
+      213: -4481397837243328899
+    second: Wall_Neon_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall_Neon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9596
+        width: 540
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -270, y: -277}
+        - {x: -270, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369f18275980f850800000000000000
+      internalID: 6408773277176534577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_1
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 9247
+        width: 554
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -277}
+        - {x: -277, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a519895b9a1160800000000000000
+      internalID: 6997075779927779201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_2
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 9246
+        width: 554
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -277.5}
+        - {x: -277, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b08898b7bea51b0800000000000000
+      internalID: -5666958265271448751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_3
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 9246
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: -277.5}
+        - {x: -277.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc436fb7af84d270800000000000000
+      internalID: 8274396366019710141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_4
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 9246
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: -277.5}
+        - {x: -277.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e4ee1dec3de480800000000000000
+      internalID: -8868365102099405600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_5
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 9246
+        width: 559
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -279.5, y: -277.5}
+        - {x: -279.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6d3ee5bc4e6b570800000000000000
+      internalID: 8482218510320391879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8517
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: -277.5}
+        - {x: -277.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab612da7760bbae0800000000000000
+      internalID: -1532624137113998424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 7650
+        width: 540
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -270, y: -277}
+        - {x: -270, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada88e5a453b2fd0800000000000000
+      internalID: -2365738585723195986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_8
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 7650
+        width: 554
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -277}
+        - {x: -277, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c271db8c207d9600800000000000000
+      internalID: 476660472197771972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_9
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 7648
+        width: 554
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -276}
+        - {x: -277, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -276}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e6d9fb8935a6cc0800000000000000
+      internalID: -3717066626926023117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_10
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 7648
+        width: 555
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: -276}
+        - {x: -277.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -276}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010477bdf3bbee1e0800000000000000
+      internalID: -2166588487779270640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_11
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 7650
+        width: 555
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: -277}
+        - {x: -277.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95524c60b6d76fb20800000000000000
+      internalID: 3167857286530213209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_12
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 7650
+        width: 559
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -279.5, y: -277}
+        - {x: -279.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227cc0879b73d4f0800000000000000
+      internalID: -805164017738026455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6886
+        width: 557
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -278.5, y: -277.5}
+        - {x: -278.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751ddb1cac6a1ff0800000000000000
+      internalID: -64619758185802371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5898
+        width: 554
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -276}
+        - {x: -277, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -276}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3066606710f5f50800000000000000
+      internalID: 6872213162815783912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_15
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 5898
+        width: 554
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -276}
+        - {x: -277, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -276}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db61c0a0d02137990800000000000000
+      internalID: -7389542716372412739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_16
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 5896
+        width: 554
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -277}
+        - {x: -277, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07120b6fcd3956170800000000000000
+      internalID: 8171099676174459248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_17
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 5896
+        width: 555
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: -277}
+        - {x: -277.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe894ee885bb360800000000000000
+      internalID: 7186435001143586715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_18
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 5895
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277.5, y: -277.5}
+        - {x: -277.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bad3c8452f3c700800000000000000
+      internalID: 559557223668099934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_19
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 5895
+        width: 559
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -279.5, y: -277.5}
+        - {x: -279.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e23837ecf3e7d80800000000000000
+      internalID: -8251087311362380145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 5167
+        width: 557
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -278.5, y: -277.5}
+        - {x: -278.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -277.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ac9ad9e50b99250800000000000000
+      internalID: 5951982302965385745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4686
+        width: 554
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -72}
+        - {x: -277, y: 72}
+        - {x: 268.5, y: 72}
+        - {x: 267.5, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff38025ff08c220800000000000000
+      internalID: 2506270738118606642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_22
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 4686
+        width: 554
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -277, y: -72}
+        - {x: -277, y: 72}
+        - {x: 268.5, y: 72}
+        - {x: 267.5, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa452c6dfe86cff0800000000000000
+      internalID: -16168329556964701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_23
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 4740
+        width: 559
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -279.5, y: -22.5}
+        - {x: -279.5, y: 22.5}
+        - {x: 268.5, y: 22.5}
+        - {x: 267.5, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad743d1d70d6903d0800000000000000
+      internalID: -3239938576563877926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3841
+        width: 648
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db62e266ac3145410800000000000000
+      internalID: 1464817538820875965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_25
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3841
+        width: 649
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ebaa739ff76b190800000000000000
+      internalID: -7947023784091140503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_26
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 3831
+        width: 655
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab55d00b2e6e3c40800000000000000
+      internalID: 5493949726415215521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_27
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 3831
+        width: 654
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950bdafed7e864b70800000000000000
+      internalID: 8882943986578075737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_28
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 3831
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db3268f023860c30800000000000000
+      internalID: 4325288669765319639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 3103
+        width: 658
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f9da77f3ecc7ee0800000000000000
+      internalID: -1261907023584452843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2216
+        width: 648
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a52f09b3f06d80800000000000000
+      internalID: -8259333740448864391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_31
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2216
+        width: 649
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d6a624a62e91a0800000000000000
+      internalID: -6800955900817909976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_32
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 2231
+        width: 656
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2537829e68f19f790800000000000000
+      internalID: -7495925440483658926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_33
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 2231
+        width: 656
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396e34ae4d052bf90800000000000000
+      internalID: -6939395200430905709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_34
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2231
+        width: 665
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a02c1a3f1651e40800000000000000
+      internalID: 5626511008488098342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1472
+        width: 663
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47369319c9d52370800000000000000
+      internalID: 8297277346140272460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_36
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1117
+        width: 733
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12837bca64d02f780800000000000000
+      internalID: -8650837337028741087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_37
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1117
+        width: 733
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29588764e346dcb60800000000000000
+      internalID: 7767975150917027218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_38
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 387
+        width: 746
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48348659cbcf33ec0800000000000000
+      internalID: -3588246591193463932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_39
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 325
+        width: 733
+        height: 743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c794aa7fa06baf0800000000000000
+      internalID: -381105059636085633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_40
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 325
+        width: 734
+        height: 743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9427310679cea32e0800000000000000
+      internalID: -2145142137592516023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Neon_41
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 1117
+        width: 746
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -284.5, y: -295.5}
+        - {x: -283.5, y: 188.5}
+        - {x: 268.5, y: 188.5}
+        - {x: 267.5, y: -298.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7658e51960eec1c0800000000000000
+      internalID: -4481397837243328899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
